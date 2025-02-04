@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/portfolio-ganya/static/css/main.e66298f1.css",
+    "main.js": "/portfolio-ganya/static/js/main.bcbaa23d.js",
+    "index.html": "/portfolio-ganya/index.html",
+    "main.e66298f1.css.map": "/portfolio-ganya/static/css/main.e66298f1.css.map",
+    "main.bcbaa23d.js.map": "/portfolio-ganya/static/js/main.bcbaa23d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e66298f1.css",
+    "static/js/main.bcbaa23d.js"
+  ]
+}
